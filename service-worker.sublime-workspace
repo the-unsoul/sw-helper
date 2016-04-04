@@ -1,0 +1,2780 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"regi",
+				"register_scope	property"
+			],
+			[
+				"regis",
+				"register_worker	property"
+			],
+			[
+				"priv",
+				"private	keyword"
+			],
+			[
+				"cur",
+				"cursorRequest	let"
+			],
+			[
+				"prio",
+				"priorReminder"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"read",
+				"readonly	(datetimePicker.html)"
+			],
+			[
+				"ready",
+				"readonly	Attr"
+			],
+			[
+				"fin",
+				"finalDefault"
+			],
+			[
+				"parsed",
+				"parsedDefault"
+			],
+			[
+				"lab",
+				"label_3"
+			],
+			[
+				"labe",
+				"label_2"
+			],
+			[
+				"label",
+				"label_1"
+			],
+			[
+				"long",
+				"longterm"
+			],
+			[
+				"duration",
+				"durationToSecond"
+			],
+			[
+				"seco",
+				"second"
+			],
+			[
+				"ol",
+				"oldValue"
+			],
+			[
+				"place",
+				"placeholder	(scroller.js)"
+			],
+			[
+				"conver",
+				"convertMS"
+			],
+			[
+				"Min",
+				"Minutes	(mobiscroll.custom-2.17.1.min.js)"
+			],
+			[
+				"ste",
+				"steps"
+			],
+			[
+				"maxi",
+				"maximumInSecond"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"reminderS",
+				"reminderSelection	(ticketInfoCtrl.js)"
+			],
+			[
+				"minla",
+				"minutesLable"
+			],
+			[
+				"resu",
+				"results"
+			],
+			[
+				"isLo",
+				"isloading	(parking_confirmTicket.html)"
+			],
+			[
+				"confi",
+				"confirm"
+			],
+			[
+				"isval",
+				"isValidDismiss"
+			],
+			[
+				"isVl",
+				"isValidDismiss"
+			],
+			[
+				"disable",
+				"disableExceptionHandler	(homeCtrl.js)"
+			],
+			[
+				"checkC",
+				"checkConfirm	(parking.js)"
+			],
+			[
+				"setT",
+				"setText"
+			],
+			[
+				"cancel",
+				"cancelText"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"minu",
+				"minuteLable"
+			],
+			[
+				"min",
+				"minute"
+			],
+			[
+				"sec",
+				"second	(uns.datetimepicker.js)"
+			],
+			[
+				"range",
+				"rangepicker	(rangepicker.js)"
+			],
+			[
+				"isacc",
+				"isAcceptOffersEmail"
+			],
+			[
+				"json",
+				"jsonString"
+			],
+			[
+				"string",
+				"stringify	(ticketInfoCtrl.js)"
+			],
+			[
+				"order",
+				"order_"
+			],
+			[
+				"parkingti",
+				"parkingticketresponse"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"tran",
+				"translate"
+			],
+			[
+				"this",
+				"thisTicket"
+			],
+			[
+				"wait",
+				"waitForPresent"
+			],
+			[
+				"waitfor",
+				"waitForAngular"
+			],
+			[
+				"scroll",
+				"scrollToStep	(parking_duration_hourly.js)"
+			],
+			[
+				"step",
+				"stepIndex"
+			],
+			[
+				"thistickt",
+				"thisTicketExtra	(5-on-going-tickets-spec.js)"
+			],
+			[
+				"ServicePark",
+				"ServiceParkingConfirmation"
+			],
+			[
+				"String",
+				"StringFactory"
+			],
+			[
+				"seriv",
+				"serviceParkingTickets"
+			],
+			[
+				"ticketsEx",
+				"ticketsExtra	(5-on-going-tickets.js)"
+			],
+			[
+				"thisTi",
+				"thisTicketExtra	(5-on-going-tickets.js)"
+			],
+			[
+				"thise",
+				"thisTicketExtra"
+			],
+			[
+				"ex",
+				"extra"
+			],
+			[
+				"ticketxE",
+				"ticketsExtra"
+			],
+			[
+				"ticketE",
+				"ticketsExtra	(parking_confirmation.js)"
+			],
+			[
+				"getT",
+				"getTicket	(parking_tickets.js)"
+			],
+			[
+				"promis",
+				"promises"
+			],
+			[
+				"modi",
+				"modify	(config_units.DOC_BASE.js)"
+			],
+			[
+				"getTick",
+				"getTicketId	(parking_confirmation.js)"
+			],
+			[
+				"Parking",
+				"ParkingTickets"
+			],
+			[
+				"me",
+				"memberOf	@memberOf"
+			],
+			[
+				"no",
+				"notify"
+			],
+			[
+				"popu",
+				"popupLoaded"
+			],
+			[
+				"dis",
+				"display	(addVerhicleCtrl.js)"
+			],
+			[
+				"open",
+				"openUp"
+			],
+			[
+				"curren",
+				"currencies"
+			],
+			[
+				"ve",
+				"vehiclehistory"
+			],
+			[
+				"vehi",
+				"vehiclehistory"
+			],
+			[
+				"curre",
+				"current"
+			],
+			[
+				"ass",
+				"assigned	(ticketDetail.html)"
+			],
+			[
+				"getc",
+				"getCurrencySymbol"
+			],
+			[
+				"getCu",
+				"getCurrencySymbol"
+			],
+			[
+				"curr",
+				"currency"
+			],
+			[
+				"isrem",
+				"isReminderEmail	(customer.xml.php)"
+			],
+			[
+				"ticket",
+				"ticketStop"
+			],
+			[
+				"update",
+				"updatePlate"
+			],
+			[
+				"plat",
+				"platform"
+			],
+			[
+				"filter",
+				"$filter	AngularJS"
+			],
+			[
+				"screen",
+				"screenName"
+			],
+			[
+				"consot",
+				"consumption"
+			],
+			[
+				"consum",
+				"consumptionType"
+			],
+			[
+				"tim",
+				"timimg	(app.js)"
+			],
+			[
+				"getTim",
+				"getTimeConsumption	(user.js)"
+			],
+			[
+				"set",
+				"setEndTimer	(user.js)"
+			],
+			[
+				"time",
+				"timeConsumption"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"content",
+				"contentLoaded"
+			],
+			[
+				"conten",
+				"contentLoaded"
+			],
+			[
+				"ini",
+				"initial	(index.html)"
+			],
+			[
+				"last",
+				"lastViewLoaded"
+			],
+			[
+				"from",
+				"fromParams"
+			],
+			[
+				"state",
+				"stateChangeTimer"
+			],
+			[
+				"stat",
+				"stateChangeTimer"
+			],
+			[
+				"root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"pass",
+				"passed"
+			],
+			[
+				"mod",
+				"modification	(2-modification-before-spec.js)"
+			],
+			[
+				"even",
+				"event"
+			],
+			[
+				"exe",
+				"executeScript"
+			],
+			[
+				"start",
+				"start_offset"
+			],
+			[
+				"excess",
+				"excess_degree"
+			],
+			[
+				"each",
+				"each_step_degree"
+			],
+			[
+				"ranged",
+				"ranged_duration"
+			],
+			[
+				"smaller",
+				"smaller_step"
+			],
+			[
+				"rang",
+				"ranged_duration"
+			],
+			[
+				"tar",
+				"tarrif_steps"
+			],
+			[
+				"discount",
+				"discount_duration"
+			],
+			[
+				"discou",
+				"discountDuration"
+			],
+			[
+				"par",
+				"param	@param"
+			],
+			[
+				"disc",
+				"discountDuration"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"parseri",
+				"parkingServices"
+			],
+			[
+				"free",
+				"freeDuration"
+			],
+			[
+				"animatecss",
+				"animatecss-tada	tada - Attention Seekers"
+			],
+			[
+				"gi",
+				"gift	(inputRepeater.html)"
+			],
+			[
+				"check",
+				"checked2	(parking_car.html)"
+			],
+			[
+				"valid",
+				"validator	(validationAndDiscountCodeModal.html)"
+			],
+			[
+				"discoun",
+				"discountCodeValidator	(parkingServices.js)"
+			],
+			[
+				"control",
+				"controller	AngularJS"
+			],
+			[
+				"def",
+				"define()	RequireJS"
+			],
+			[
+				"controll",
+				"$controller	AngularJS"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "my_idb.ts",
+			"settings":
+			{
+				"buffer_size": 3329,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "my_worker.ts",
+			"settings":
+			{
+				"buffer_size": 202,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "my_worker.js",
+			"settings":
+			{
+				"buffer_size": 220,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "worker-helper.ts",
+			"settings":
+			{
+				"buffer_size": 1286,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "worker-helper.js",
+			"settings":
+			{
+				"buffer_size": 1181,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "worker.js",
+			"settings":
+			{
+				"buffer_size": 1995,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3647,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "idb.js",
+			"settings":
+			{
+				"buffer_size": 2956,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "my_idb.js",
+			"settings":
+			{
+				"buffer_size": 3756,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "scope ",
+		"selected_items":
+		[
+			[
+				"scope ",
+				"Toggle ScopeAlways"
+			],
+			[
+				"scope",
+				"Toggle ScopeAlways"
+			],
+			[
+				"color",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"colo",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"colorch",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"buil",
+				"Build With: TypeScript"
+			],
+			[
+				"build",
+				"Build With: TypeScript"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"typescript",
+				"Build With: TypeScript"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"algi",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"alig",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ad",
+				"Project: Add Folder"
+			],
+			[
+				"emmet",
+				"Emmet: Balance (inward)"
+			],
+			[
+				"emkey",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"emet key",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"sublimlinter",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"add f",
+				"Project: Add Folder"
+			],
+			[
+				"addf",
+				"Project: Add Folder"
+			],
+			[
+				"keybind",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"key bi",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"key binduser",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"bracket fol",
+				"BracketHighlighter: Fold Bracket Content"
+			],
+			[
+				"keybinn ",
+				"Preferences: SyntaxFold Keybindings - Default"
+			],
+			[
+				"syn",
+				"SyntaxFold: Open README"
+			],
+			[
+				"fold all",
+				"SyntaxFold: Fold All Default"
+			],
+			[
+				"sy",
+				"SyntaxFold: Fold Current Default"
+			],
+			[
+				"synta",
+				"SyntaxFold: Fold Current Default"
+			],
+			[
+				"unfold",
+				"Code Folding: Select Unfolded"
+			],
+			[
+				"setting user",
+				"Preferences: Settings - User"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"origami",
+				"Origami: Save Current Layout"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"key ",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"grunt ",
+				"Grunt"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"linter seti",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"sublim linter sett",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"togg",
+				"View: Toggle Menu"
+			],
+			[
+				"linter set",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"setting use",
+				"Preferences: Settings - User"
+			],
+			[
+				"angular",
+				"Set Syntax: HTML (Angular.js) UnS"
+			],
+			[
+				"addfo",
+				"Project: Add Folder"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"toggle me",
+				"View: Toggle Menu"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"scheme",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"scheme edit",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"set scheme",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"package re",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"project",
+				"Project: Add Folder"
+			]
+		],
+		"width": 572.0
+	},
+	"console":
+	{
+		"height": 537.0,
+		"history":
+		[
+			"window.run_command('mtts')",
+			"ls",
+			"clear()",
+			"clear",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib2,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/service_worker",
+		"/var/www/parkeon/web/service_worker",
+		"/var/www/parkeon/web/service_worker/DTO"
+	],
+	"file_history":
+	[
+		"/home/uns/.config/sublime-text-3/Packages/User/Material-Theme-Darker.tmTheme",
+		"/home/uns/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/uns/.config/sublime-text-3/Packages/User/Color Highlighter/themes/Monokai Expanded edited.tmTheme",
+		"/home/uns/.config/sublime-text-3/Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+		"/home/uns/sublime_text.desktop",
+		"/home/uns/.config/sublime-text-3/Packages/TypeScript/FindRefs.YAML-tmLanguage",
+		"/home/uns/.config/sublime-text-3/Packages/TypeScript/FindRefs.hidden-tmLanguage",
+		"/home/uns/.config/sublime-text-3/Packages/TypeScript/ErrorList.hidden-tmLanguage",
+		"/home/uns/.config/sublime-text-3/Packages/TypeScript/Comments.tmPreferences",
+		"/home/uns/.config/sublime-text-3/Packages/TypeScript/TypeScript.YAML-tmLanguage",
+		"/var/www/parkeon/web/service_worker/DTO/es6-promise.d.ts",
+		"/var/www/parkeon/web/service_worker/my_idb.js",
+		"/var/www/parkeon/web/service_worker/my_idb.ts",
+		"/var/www/service_worker/my_idb.ts",
+		"/var/www/service_worker/my_idb.js",
+		"/var/www/service_worker/service-worker-wiki/DTO/CallBack.ts",
+		"/var/www/service_worker/service-worker-wiki/idb.js",
+		"/var/www/service_worker/service-worker-wiki/my_idb.ts",
+		"/var/www/service_worker/service-worker-wiki/my_idb.js",
+		"/var/www/service_worker/service-worker-wiki/worker.js",
+		"/home/uns/.config/sublime-text-3/Packages/User/Custom Snippets/Javascript/function-marked-END.sublime-snippet",
+		"/home/uns/.config/sublime-text-3/Packages/User/Custom Snippets/TypeScript/public-marked-END.sublime-snippet",
+		"/home/uns/.config/sublime-text-3/Packages/User/Custom Snippets/TypeScript/private-marked-END.sublime-snippet",
+		"/home/uns/.config/sublime-text-3/Packages/User/Custom Snippets/TypeScript/method-marked-end.sublime-snippet",
+		"/home/uns/.config/sublime-text-3/Packages/User/Custom Snippets/TypeScript/function-marked-end.sublime-snippet",
+		"/home/uns/.config/sublime-text-3/Packages/User/Custom Snippets/TypeScript/method.sublime-completions (does not work)",
+		"/home/uns/.config/sublime-text-3/Packages/User/Custom Snippets/TypeScript/method.sublime-completions",
+		"/home/uns/.config/sublime-text-3/Packages/User/Custom Snippets/Javascript/function-marked-end.sublime-snippet",
+		"/var/www/parkeon/web/_STATIC_HTML/source/less/partials/form.less",
+		"/var/www/parkeon/web/_STATIC_HTML/source/less/main.less",
+		"/var/www/parkeon/web/_STATIC_HTML/source/less/partials/unique.less",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/services/translations.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/services/parkingServices.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/services/parking.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/vendor/angular-i18n/angular-locale_en.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/services/user.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/controllers/parking_durationCtrl.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/views/parking_longTermDuration.html",
+		"/var/www/parkeon/web/_STATIC_HTML/source/views/profile_notifications.html",
+		"/var/www/parkeon/web/_STATIC_HTML/source/index.html",
+		"/var/www/parkeon/web/_STATIC_HTML/source/views/selectFavCountry.html",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/vendor/uns.datetimepicker/uns.datetimepicker.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/views/parking_car.html",
+		"/var/www/parkeon/web/_STATIC_HTML/source/views/parking_duration.html",
+		"/var/www/parkeon/web/_STATIC_HTML/source/views/ticketInfo.html",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/app.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/controllers/profile_notificationsCtrl.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/directives/datetimePicker.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/directives/scroller.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/controllers/parking_carCtrl.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/controllers/ticketInfoCtrl.js",
+		"/home/uns/.ssh/id_rsa.pub",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/controllers/parking_longTermDurationCtrl.js",
+		"/var/www/parkeon/web/_STATIC_HTML/Gruntfile.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/controllers/profile_updatePhoneNoCtrl.js",
+		"/home/uns/.config/sublime-text-3/Packages/User/Base File.sublime-settings",
+		"/home/uns/.config/sublime-text-3/Packages/Terminal/Base File.sublime-settings",
+		"/home/uns/.config/sublime-text-3/Packages/User/JavaScriptNext.sublime-settings",
+		"/home/uns/.config/sublime-text-3/Packages/Alignment/Default (Linux).sublime-keymap",
+		"/var/www/parkeon/web/_STATIC_HTML/source/views/datetimePicker.html",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/controllers/profile_infoCtrl.js",
+		"/home/uns/.ssh/known_hosts",
+		"/home/uns/Downloads/timespan-demos/js/mobiscroll.custom-2.17.1.min.js",
+		"/var/www/parkeon/web/js/vendor/uns.datetimepicker/uns.datetimepicker.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/controllers/parking_confirmTicketCtrl.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/vendor/angular-i18n/angular-locale_ca-es.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/vendor/angular-i18n/angular-locale_ar.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/views/parking_confirmTicket.html",
+		"/var/www/parkeon/controllers/OrderController.php",
+		"/var/www/parkeon/e2e.test/e2e-main.js",
+		"/var/www/parkeon/e2e.test/config_units.js",
+		"/var/www/parkeon/e2e.test/node_modules_custom/helper.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/vendor/angular-i18n/angular-locale_da-dk.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/views/parking_ticketsExtend.html",
+		"/var/www/parkeon/web/_STATIC_HTML/source/views/profile_info.html",
+		"/var/www/parkeon/web/index.php",
+		"/var/www/whoosh_runtime_data/logs/trace.log",
+		"/var/www/whoosh_runtime_data/response.txt",
+		"/var/www/parkeon/web/_STATIC_HTML/package.json",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/controllers/parking_epermitVehicleAdjustmentCtrl.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/controllers/profile_paymentCtrl.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/controllers/parking_paymentCtrl.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/controllers/parking_ticketsExtendCtrl.js",
+		"/var/www/parkeon/web/views/parking_duration.html",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/controllers/parking_locationCtrl.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/controllers/homeCtrl.js",
+		"/var/www/parkeon/e2e.test/config_examples/tickets/americas_cyberSource_payment_form.js",
+		"/var/www/parkeon/e2e.test/config_examples/tickets/europe_PBA_recurrence_ogone_saveTokenization_payment3DS_form.js",
+		"/var/www/parkeon/e2e.test/config_examples/tickets/europe_ogone_payment_form.js",
+		"/var/www/parkeon/web/views/parking_ticketsExtend.html",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/services/paymentServices.js",
+		"/var/www/parkeon/vendor/yiisoft/yii2/CHANGELOG.md",
+		"/var/www/parkeon/version.json",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/controllers/historyCtrl.js",
+		"/var/www/parkeon/web/js/controllers/parking_durationCtrl.js",
+		"/var/www/parkeon/scripts/build.xml",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/controllers/parking_ticketsCtrl.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/vendor/angular-i18n/ca-es.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/views/history.html",
+		"/var/www/parkeon/web/views/ticketDetail.html",
+		"/var/www/parkeon/web/_STATIC_HTML/source/views/ticketDetail.html",
+		"/var/www/whoosh_runtime_data/logs/app.log",
+		"/var/www/parkeon/vendor/yiisoft/yii2/base/ErrorHandler.php",
+		"/var/www/parkeon/controllers/OgoneController.php",
+		"/var/www/parkeon/config/web.php",
+		"/var/www/whoosh_runtime_data/debug/index.data",
+		"/var/www/parkeon/views/order/details.php",
+		"/var/www/parkeon/scripts/composer/0_composer_update.sh",
+		"/var/www/parkeon/scripts/composer/composer.phar",
+		"/home/uns/Desktop/libs/mobiscroll-2.16.1/js/mobiscroll.select.js",
+		"/home/uns/Desktop/libs/mobiscroll-2.16.1/js/mobiscroll.listbase.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/directives/rangepicker.js",
+		"/home/uns/Downloads/timespan-demos/timespan_basic.html",
+		"/home/uns/Desktop/libs/mobiscroll-2.16.1/js/mobiscroll.datetimebase.js",
+		"/home/uns/Desktop/libs/mobiscroll-2.16.1/js/mobiscroll.frame.jqm.js",
+		"/home/uns/Downloads/timespan-demos/timespan_dhm.html",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/vendor/angular-i18n/angular-locale_se.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/vendor/angular-i18n/angular-locale_sv.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/views/profile_payment.html",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/services/APIsearch.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/services/analytics.js",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/controllers/ticketDetailCtrl.js",
+		"/var/www/parkeon/controllers/PosController.php",
+		"/var/www/parkeon/views/payment/loader.php",
+		"/var/www/parkeon/web/_STATIC_HTML/source/js/update-popup.js",
+		"/var/www/parkeon/controllers/CyberSourceController.php",
+		"/var/www/parkeon/controllers/SimplePayController.php",
+		"/var/www/parkeon/controllers/PaymentController.php"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 127.0,
+		"where_history":
+		[
+			"/var/www/parkeon/web/service_worker",
+			"/var/www/parkeon/web/_STATIC_HTML/source/js/controllers",
+			"/var/www/parkeon/views",
+			"/var/www/parkeon/config",
+			"/var/www/parkeon",
+			"/home/uns/Desktop/libs/mobiscroll-2.16.1/js",
+			"/home/uns/Desktop/libs/mobiscroll-2.16.1/css",
+			"/home/uns/Desktop/libs/mobiscroll-2.16.1/js",
+			"/var/www/parkeon/components",
+			"/var/www/parkeon/controllers",
+			"/var/www/parkeon/web/_STATIC_HTML/source/js",
+			"/var/www/parkeon/controllers",
+			"/var/www/parkeon/config",
+			"/var/www/parkeon/controllers",
+			"/var/www/parkeon/config",
+			"/var/www/parkeon",
+			"/var/www/parkeon/controllers",
+			"/var/www/parkeon/config",
+			"/var/www/parkeon/views",
+			"/var/www/parkeon/controllers",
+			"/var/www/parkeon/vendor",
+			"/var/www/parkeon",
+			"/var/www/parkeon/web/_STATIC_HTML/source/js",
+			"/var/www/parkeon/web/_STATIC_HTML/source/less/bootstrap",
+			"/var/www/parkeon/web/_STATIC_HTML/source/less",
+			"/var/www/parkeon",
+			"/var/www/parkeon/web/_STATIC_HTML/source/js/controllers",
+			"/var/www/parkeon",
+			"/var/www/parkeon/web/_STATIC_HTML/source/js/controllers",
+			"/var/www/parkeon/controllers",
+			"/var/www/parkeon/web/_STATIC_HTML/source/js/controllers",
+			"/var/www/parkeon/web/_STATIC_HTML/source",
+			"/var/www/parkeon/e2e.test/node_modules/jasmine-spec-reporter",
+			"/var/www/parkeon/e2e.test/node_modules/protractor",
+			"/var/www/parkeon/controllers",
+			"/var/www/parkeon/tests/codeception",
+			"/var/www/parkeon",
+			"/var/www/parkeon/web/_STATIC_HTML/source/js/services",
+			"/var/www/parkeon/web/_STATIC_HTML/source/js/controllers",
+			"/var/www/parkeon/web/_STATIC_HTML/source/js/directives",
+			"/var/www/parkeon/e2e.test/pages",
+			"/var/www/parkeon/e2e.test/services",
+			"/var/www/parkeon/e2e.test/specs",
+			"/var/www/parkeon/web/_STATIC_HTML/source/js/services",
+			"/var/www/parkeon/web/_STATIC_HTML/source/js/directives",
+			"/var/www/parkeon/web/_STATIC_HTML/source/js/controllers",
+			"/var/www/parkeon/e2e.test/node_modules/chromedriver",
+			"/var/www/parkeon/",
+			"/var/www/parkeon/web",
+			"/var/www/parkeon/controllers",
+			"/var/www/parkeon/web/_STATIC_HTML/source/js",
+			"/var/www/parkeon/web/_STATIC_HTML/source/views",
+			"/var/www/parkeon/web/_STATIC_HTML/source/js",
+			"<current file>",
+			"/var/www/parkeon/e2e.test/node_modules/jsdoc/templates/default/tmpl",
+			"<current file>",
+			"/var/www/parkeon/e2e.test/node_modules/protractor",
+			"<current file>",
+			"/var/www/parkeon/web/_STATIC_HTML/source/js",
+			"/var/www/parkeon/web/_STATIC_HTML/source/js/",
+			"/var/www/parkeon/web/_STATIC_HTML/source/js/controllers",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"registration.active",
+			"this",
+			"my_worker",
+			"variable",
+			"function.js",
+			"ts",
+			"”",
+			"IDBHelper",
+			"IDBHelperl",
+			"ServiceWorker",
+			"idb",
+			"function",
+			"promisifyRequest",
+			"indexName",
+			"promisifyRequest",
+			"self",
+			"upgradeCallback",
+			"Promise",
+			":",
+			"importScripts",
+			"upgradeCallback",
+			"onupgradeneeded",
+			"install",
+			"-",
+			"orange",
+			"PT1H",
+			"reminderShow",
+			"build-only",
+			"production",
+			"] &&",
+			"&&",
+			"= data[",
+			"mili",
+			".line",
+			"notification",
+			"ng-",
+			"ng",
+			"longterm",
+			"$scope",
+			"select",
+			"lastOrder",
+			"temp",
+			"finalDefault",
+			"temp",
+			"default",
+			"scope.default",
+			"scope.maxTime",
+			"parsedDefault",
+			"parsedMaxTime",
+			"oldValue",
+			"scope.defaul",
+			"default",
+			"finalDefault",
+			"labe",
+			"lab",
+			"label",
+			"mode",
+			"info",
+			"log",
+			"durationToSecond",
+			"defaultValue",
+			"scope.maxTime",
+			"default",
+			"select",
+			"formatValue",
+			"that.setValue",
+			".log",
+			"false",
+			"if",
+			"reminderShow",
+			"&&",
+			"+",
+			"label",
+			"a(u).each(function(a, b)",
+			"datetime-v",
+			"datetime",
+			"isInput",
+			"setVal",
+			"(function(a, b) {\n    var c = a.mobiscroll,\n        d = { wheelOrder: \"hhiiss\", useShortLabels: !1, minTime: 0, maxTime: 1 / 0, labels: [\"Years\", \"Months\", \"Days\", \"Hours\", \"Minutes\", \"Seconds\"], labelsShort: [\"Yrs\", \"Mths\", \"Days\", \"Hrs\", \"Mins\", \"Secs\"] };\n    c.presetShort(\"timesp",
+			"label",
+			"me;",
+			"maxTime",
+			"scroller",
+			"mobiscroll",
+			"l",
+			"scroller",
+			"timespan",
+			"hour",
+			"maximumInSecond",
+			"Parking",
+			"iso",
+			"j",
+			"minutesLable",
+			"minute",
+			"$(element).mobiscroll",
+			"$",
+			"cancelText",
+			"$scope",
+			"result",
+			"setViewValue",
+			"CONFLICT (content",
+			"getNotifications",
+			"hourlyDelay",
+			"h4",
+			"handleAlertProposals",
+			"reminderShow",
+			"alerts.sms",
+			"\\n",
+			"console",
+			"log",
+			"console.log(\"__          ___                     _     _ \");",
+			"var",
+			";",
+			"response",
+			"$scope.firstOrder",
+			"Parking.initOrder",
+			"initOrder",
+			"status",
+			"016-03-25 08:37:48 [127.0.0.1][-][-",
+			"016-03-25 08:37:48 [127.0.0.1]",
+			"||",
+			"updatePass",
+			"modi",
+			"reset",
+			"isloading",
+			"endTime",
+			"$state.go('parking'",
+			"$scope.isValidDismiss"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Pos",
+			"pos",
+			"poS",
+			"PoS",
+			"pos",
+			"poS",
+			"Pos",
+			"PoS",
+			"pos",
+			"PoS",
+			"Pos",
+			"PoS",
+			"poS",
+			"pos",
+			"Pos",
+			"PoS",
+			"pos",
+			"Pos",
+			"PoS",
+			"pos",
+			"Pos",
+			"pod",
+			"pnd",
+			"poS",
+			"Pos",
+			"PoS",
+			"category",
+			"minipark",
+			"pos",
+			"\"",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "my_idb.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								134,
+								134
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bs_sintax": "typescript",
+							"buffer_scroll_name": "1d9a5848",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Expanded edited.tmTheme",
+							"spell_check": false,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "my_worker.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								202
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "82840e7e",
+							"spell_check": false,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "my_worker.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								220,
+								220
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bs_sintax": "javascriptnext",
+							"buffer_scroll_name": "80ccc959",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Expanded edited.tmTheme",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "worker-helper.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								729,
+								729
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "a6bb90c9",
+							"spell_check": false,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 16.0,
+						"translation.y": 63.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "worker-helper.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								708,
+								708
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bs_sintax": "javascriptnext",
+							"buffer_scroll_name": "715a54c3",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Expanded edited.tmTheme",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 126.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "worker.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1995,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bs_sintax": "javascriptnext",
+							"buffer_scroll_name": "e810a7b3",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Expanded edited.tmTheme",
+							"spell_check": false,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							}
+						},
+						"translation.x": -0.0,
+						"translation.y": 189.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2444,
+								2444
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bs_sintax": "angularjs",
+							"buffer_scroll_name": "f2613f99",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Expanded edited.tmTheme",
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1008.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "idb.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2956,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1008,
+								1008
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bs_sintax": "javascriptnext",
+							"buffer_scroll_name": "90de3d83",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Expanded edited.tmTheme",
+							"spell_check": false,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 252.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 8,
+					"file": "my_idb.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3756,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								545,
+								545
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bs_sintax": "javascriptnext",
+							"buffer_scroll_name": "794ddf9c",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Expanded edited.tmTheme",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 63.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				2,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.441786951565,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.521827275808,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 223.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "service-worker.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"parkudraht",
+				"_STATIC_HTML/source/views/parking_duration.html"
+			],
+			[
+				"app.js",
+				"_STATIC_HTML/source/js/app.js"
+			],
+			[
+				"indexhtml",
+				"_STATIC_HTML/source/index.html"
+			],
+			[
+				"main.less",
+				"_STATIC_HTML/source/less/main.less"
+			],
+			[
+				"longhtml",
+				"_STATIC_HTML/source/views/parking_longTermDuration.html"
+			],
+			[
+				"long",
+				"_STATIC_HTML/source/js/controllers/parking_longTermDurationCtrl.js"
+			],
+			[
+				"pronoct",
+				"_STATIC_HTML/source/js/controllers/profile_updatePhoneNoCtrl.js"
+			],
+			[
+				"gruntf",
+				"_STATIC_HTML/Gruntfile.js"
+			],
+			[
+				"form",
+				"_STATIC_HTML/source/less/partials/form.less"
+			],
+			[
+				"uniqu",
+				"_STATIC_HTML/source/less/partials/unique.less"
+			],
+			[
+				"transl",
+				"_STATIC_HTML/source/js/services/translations.js"
+			],
+			[
+				"parkingduraht",
+				"_STATIC_HTML/source/views/parking_duration.html"
+			],
+			[
+				"parkingserv",
+				"_STATIC_HTML/source/js/services/parkingServices.js"
+			],
+			[
+				"parking.js",
+				"_STATIC_HTML/source/js/services/parking.js"
+			],
+			[
+				"angularlocaleen.js",
+				"_STATIC_HTML/source/js/vendor/angular-i18n/angular-locale_en.js"
+			],
+			[
+				"ticketinfct",
+				"_STATIC_HTML/source/js/controllers/ticketInfoCtrl.js"
+			],
+			[
+				"datetime",
+				"_STATIC_HTML/source/views/datetimePicker.html"
+			],
+			[
+				"date",
+				"_STATIC_HTML/source/views/datetimePicker.html"
+			],
+			[
+				"datetimehtml",
+				"_STATIC_HTML/source/views/datetimePicker.html"
+			],
+			[
+				"trans",
+				"_STATIC_HTML/source/js/services/translations.js"
+			],
+			[
+				"durationct",
+				"_STATIC_HTML/source/js/controllers/parking_durationCtrl.js"
+			],
+			[
+				"userjs",
+				"_STATIC_HTML/source/js/services/user.js"
+			],
+			[
+				"parkingcarhtml",
+				"_STATIC_HTML/source/views/parking_car.html"
+			],
+			[
+				"parkingcar",
+				"_STATIC_HTML/source/js/controllers/parking_carCtrl.js"
+			],
+			[
+				"parkingduratct",
+				"_STATIC_HTML/source/js/controllers/parking_durationCtrl.js"
+			],
+			[
+				"selecfa",
+				"_STATIC_HTML/source/views/selectFavCountry.html"
+			],
+			[
+				"pronotict",
+				"_STATIC_HTML/source/js/controllers/profile_notificationsCtrl.js"
+			],
+			[
+				"inde",
+				"_STATIC_HTML/source/index.html"
+			],
+			[
+				"notifhtml",
+				"_STATIC_HTML/source/views/profile_notifications.html"
+			],
+			[
+				"tickinhtml",
+				"_STATIC_HTML/source/views/ticketInfo.html"
+			],
+			[
+				"tickinfoct",
+				"_STATIC_HTML/source/js/controllers/ticketInfoCtrl.js"
+			],
+			[
+				"parkingconhtml",
+				"_STATIC_HTML/source/views/parking_confirmTicket.html"
+			],
+			[
+				"parkingconfct",
+				"_STATIC_HTML/source/js/controllers/parking_confirmTicketCtrl.js"
+			],
+			[
+				"add",
+				"_STATIC_HTML/source/js/vendor/angular-i18n/angular-locale_da-dk.js"
+			],
+			[
+				"e2emain",
+				"e2e.test/e2e-main.js"
+			],
+			[
+				"profleinohtml",
+				"_STATIC_HTML/source/views/profile_info.html"
+			],
+			[
+				"profileinfoct",
+				"_STATIC_HTML/source/js/controllers/profile_infoCtrl.js"
+			],
+			[
+				"parkingdurhtml",
+				"parkeon/web/views/parking_duration.html"
+			],
+			[
+				"profile",
+				"_STATIC_HTML/source/js/controllers/profile_paymentCtrl.js"
+			],
+			[
+				"parkingpaymentct",
+				"_STATIC_HTML/source/js/controllers/parking_paymentCtrl.js"
+			],
+			[
+				"europe_ogone_payment_form",
+				"parkeon/e2e.test/config_examples/tickets/europe_ogone_payment_form.js"
+			],
+			[
+				"europe_pba_recurrence_ogone_savetokenization_payment3ds_form",
+				"e2e.test/config_examples/tickets/europe_PBA_recurrence_ogone_saveTokenization_payment3DS_form.js"
+			],
+			[
+				"americas_cybersource_payment_form",
+				"e2e.test/config_examples/tickets/americas_cyberSource_payment_form.js"
+			],
+			[
+				"confu",
+				"e2e.test/config_units.js"
+			],
+			[
+				"parkingextendht",
+				"parkeon/web/views/parking_ticketsExtend.html"
+			],
+			[
+				"parkingextendct",
+				"_STATIC_HTML/source/js/controllers/parking_ticketsExtendCtrl.js"
+			],
+			[
+				"parkinglong",
+				"_STATIC_HTML/source/views/parking_longTermDuration.html"
+			],
+			[
+				"parkinglongctr",
+				"_STATIC_HTML/source/js/controllers/parking_longTermDurationCtrl.js"
+			],
+			[
+				"parkingdurationhtml",
+				"_STATIC_HTML/source/views/parking_duration.html"
+			],
+			[
+				"parkingdurationct",
+				"parkeon/web/js/controllers/parking_durationCtrl.js"
+			],
+			[
+				"parkinglocact",
+				"_STATIC_HTML/source/js/controllers/parking_locationCtrl.js"
+			],
+			[
+				"homect",
+				"_STATIC_HTML/source/js/controllers/homeCtrl.js"
+			],
+			[
+				"parkingconfirct",
+				"_STATIC_HTML/source/js/controllers/parking_confirmTicketCtrl.js"
+			],
+			[
+				"parkingticketct",
+				"_STATIC_HTML/source/js/controllers/parking_ticketsCtrl.js"
+			],
+			[
+				"parkingconfhtml",
+				"_STATIC_HTML/source/views/parking_confirmTicket.html"
+			],
+			[
+				"angularlocale_en",
+				"_STATIC_HTML/source/js/vendor/angular-i18n/angular-locale_en.js"
+			],
+			[
+				"angularlocalear",
+				"_STATIC_HTML/source/js/vendor/angular-i18n/angular-locale_ar.js"
+			],
+			[
+				"ca-es",
+				"_STATIC_HTML/source/js/vendor/angular-i18n/angular-locale_ca-es.js"
+			],
+			[
+				"localeca-es",
+				"_STATIC_HTML/source/js/vendor/angular-i18n/angular-locale_ca-es.js"
+			],
+			[
+				"parkingexth",
+				"_STATIC_HTML/source/views/parking_ticketsExtend.html"
+			],
+			[
+				"durationhtml",
+				"_STATIC_HTML/source/views/parking_duration.html"
+			],
+			[
+				"datetimejs",
+				"_STATIC_HTML/source/js/directives/datetimePicker.js"
+			],
+			[
+				"datetimepjs",
+				"_STATIC_HTML/source/js/directives/datetimePicker.js"
+			],
+			[
+				"histrytml",
+				"_STATIC_HTML/source/views/history.html"
+			],
+			[
+				"histct",
+				"_STATIC_HTML/source/js/controllers/historyCtrl.js"
+			],
+			[
+				"ticketdeta",
+				"parkeon/web/views/ticketDetail.html"
+			],
+			[
+				"index",
+				"_STATIC_HTML/source/index.html"
+			],
+			[
+				"vers",
+				"parkeon/version.json"
+			],
+			[
+				"parkingpayct",
+				"_STATIC_HTML/source/js/controllers/parking_paymentCtrl.js"
+			],
+			[
+				"profilpaymentct",
+				"_STATIC_HTML/source/js/controllers/profile_paymentCtrl.js"
+			],
+			[
+				"ogone",
+				"parkeon/controllers/OgoneController.php"
+			],
+			[
+				"ordercontrol",
+				"parkeon/controllers/OrderController.php"
+			],
+			[
+				"ticketde",
+				"_STATIC_HTML/source/views/ticketDetail.html"
+			],
+			[
+				"paymentser",
+				"_STATIC_HTML/source/js/services/paymentServices.js"
+			],
+			[
+				"ticketinct",
+				"_STATIC_HTML/source/js/controllers/ticketInfoCtrl.js"
+			],
+			[
+				"details.php",
+				"parkeon/views/order/details.php"
+			],
+			[
+				"config",
+				"e2e.test/config_units.js"
+			],
+			[
+				"formles",
+				"_STATIC_HTML/source/less/partials/form.less"
+			],
+			[
+				"uni",
+				"_STATIC_HTML/source/less/partials/unique.less"
+			],
+			[
+				"user.js",
+				"_STATIC_HTML/source/js/services/user.js"
+			],
+			[
+				"angular-locasv",
+				"_STATIC_HTML/source/js/vendor/angular-i18n/angular-locale_sv.js"
+			],
+			[
+				"angular-localse",
+				"_STATIC_HTML/source/js/vendor/angular-i18n/angular-locale_se.js"
+			],
+			[
+				"parkingduract",
+				"_STATIC_HTML/source/js/controllers/parking_durationCtrl.js"
+			],
+			[
+				"parkingdurahtml",
+				"_STATIC_HTML/source/views/parking_duration.html"
+			],
+			[
+				"profileinhtml",
+				"_STATIC_HTML/source/views/profile_info.html"
+			],
+			[
+				"profilepaymehtml",
+				"_STATIC_HTML/source/views/profile_payment.html"
+			],
+			[
+				"profilnothtml",
+				"_STATIC_HTML/source/views/profile_notifications.html"
+			],
+			[
+				"pronotfict",
+				"_STATIC_HTML/source/js/controllers/profile_notificationsCtrl.js"
+			],
+			[
+				"ticketdehtml",
+				"_STATIC_HTML/source/views/ticketDetail.html"
+			],
+			[
+				"ticketdetact",
+				"_STATIC_HTML/source/js/controllers/ticketDetailCtrl.js"
+			],
+			[
+				"analy",
+				"_STATIC_HTML/source/js/services/analytics.js"
+			],
+			[
+				"historyhtml",
+				"_STATIC_HTML/source/views/history.html"
+			],
+			[
+				"historyct",
+				"_STATIC_HTML/source/js/controllers/historyCtrl.js"
+			],
+			[
+				"apisear",
+				"_STATIC_HTML/source/js/services/APIsearch.js"
+			],
+			[
+				"parkingservices",
+				"_STATIC_HTML/source/js/services/parkingServices.js"
+			],
+			[
+				"parkinglocationct",
+				"_STATIC_HTML/source/js/controllers/parking_locationCtrl.js"
+			],
+			[
+				"odercontroller",
+				"parkeon/controllers/OrderController.php"
+			],
+			[
+				"poscontroller.php",
+				"parkeon/controllers/PosController.php"
+			],
+			[
+				"ordercontroll",
+				"parkeon/controllers/OrderController.php"
+			],
+			[
+				"ticketinf",
+				"_STATIC_HTML/source/views/ticketInfo.html"
+			],
+			[
+				"longtermdurahtml",
+				"_STATIC_HTML/source/views/parking_longTermDuration.html"
+			],
+			[
+				"longterc",
+				"_STATIC_HTML/source/js/controllers/parking_longTermDurationCtrl.js"
+			],
+			[
+				"loaderphp",
+				"parkeon/views/payment/loader.php"
+			],
+			[
+				"paymentcontroll",
+				"parkeon/controllers/PaymentController.php"
+			],
+			[
+				"longtermdurhtml",
+				"_STATIC_HTML/source/views/parking_longTermDuration.html"
+			],
+			[
+				"parkinglon",
+				"_STATIC_HTML/source/views/parking_longTermDuration.html"
+			],
+			[
+				"parkingduration.html",
+				"_STATIC_HTML/source/views/parking_duration.html"
+			],
+			[
+				"profilepayhtml",
+				"_STATIC_HTML/source/views/profile_payment.html"
+			],
+			[
+				"profilepayct",
+				"_STATIC_HTML/source/js/controllers/profile_paymentCtrl.js"
+			],
+			[
+				"parkingtickethtml",
+				"_STATIC_HTML/source/views/parking_tickets.html"
+			],
+			[
+				"parkingticketctr",
+				"_STATIC_HTML/source/js/controllers/parking_ticketsCtrl.js"
+			],
+			[
+				"ticketinfc",
+				"_STATIC_HTML/source/js/controllers/ticketInfoCtrl.js"
+			],
+			[
+				"parkingcarct",
+				"_STATIC_HTML/source/js/controllers/parking_carCtrl.js"
+			],
+			[
+				"parkingservice",
+				"_STATIC_HTML/source/js/services/parkingServices.js"
+			],
+			[
+				"composerjson",
+				"parkeon/composer.json"
+			],
+			[
+				"profilenotct",
+				"_STATIC_HTML/source/js/controllers/profile_notificationsCtrl.js"
+			],
+			[
+				"paymentctr",
+				"parkeon/web/_STATIC_HTML/source/js/controllers/profile_paymentCtrl.js"
+			],
+			[
+				"profivect",
+				"_STATIC_HTML/source/js/controllers/profile_vehicleCtrl.js"
+			],
+			[
+				"main.js",
+				"_STATIC_HTML/source/js/main.js"
+			],
+			[
+				"apiorder",
+				"_STATIC_HTML/source/js/services/APIorder.js"
+			],
+			[
+				"ticketinctr",
+				"_STATIC_HTML/source/js/controllers/ticketInfoCtrl.js"
+			],
+			[
+				"orderxml",
+				"parkeon/config/order.xml.php"
+			],
+			[
+				"parkinglongct",
+				"_STATIC_HTML/source/js/controllers/parking_longTermDurationCtrl.js"
+			],
+			[
+				"ticketinfoct",
+				"parkeon/web/_STATIC_HTML/source/js/controllers/ticketInfoCtrl.js"
+			],
+			[
+				"profilepaymentct",
+				"_STATIC_HTML/source/js/controllers/profile_paymentCtrl.js"
+			],
+			[
+				"ticketinfoctr",
+				"_STATIC_HTML/source/js/controllers/ticketInfoCtrl.js"
+			],
+			[
+				"index.htm",
+				"_STATIC_HTML/source/index.html"
+			],
+			[
+				"parkingpaymenthtml",
+				"_STATIC_HTML/source/views/parking_payment.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Whoosh.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
